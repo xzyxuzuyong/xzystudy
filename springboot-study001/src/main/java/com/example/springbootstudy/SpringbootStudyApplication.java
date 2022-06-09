@@ -1,13 +1,16 @@
-package com.example.springbootstudy001;
+package com.example.springbootstudy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author DELL
+ */
 @SpringBootApplication
-public class SpringbootStudy001Application {
+public class SpringbootStudyApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootStudy001Application.class, args);
+        SpringApplication.run(SpringbootStudyApplication.class, args);
     }
 
 }
